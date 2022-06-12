@@ -3,9 +3,14 @@
 
 ## Context
 
+
 It is important that the retail stores or retail companies keep track on their sales data and analyse that to find customer needs, trending products, purchase behaviour and many more important attributes about their sales and business to function even better and efficient both commercially and financially.
 
+
+
 ## Content
+
+
 
 The data set had multiple files regarding each month of the year, so firstly I merged all the files into one to get all data in a single file, resulting in a huge data file with millions of records of sales by the Superstore over the year.
 
@@ -24,7 +29,10 @@ It contains not only numerical data but also geographical and Date & time data o
 **Purchase Address** – Address of the store the purchase has been made with postal code, city name and street name/number.
 
 
+
 ## Exploratory Data Analysis
+
+
 
 Exploring the dataset , checking the statistics, and treating the missing and invalid values. The data set not only consist of missing values but many invalid values as well. The presence of invalid data entries was discovered while applying mathematical formula on a column having integral entries. The column had some rows consisting of string data set which were not processing the mathematical formula and thus I could treat all the hidden invalid values from the complete data set.
 
@@ -47,24 +55,41 @@ Columns added during analysis:
 **Minute** – Minute at which the purchase was made from 60 minutes in an hour. Date and time data type column.
 
 
+
+
 ## Business Questions Answered and Visualizations
+
+
+
 
 **Q1. What was the best month for sales? How much was earned that month?**
 
+
+
 <img src="https://user-images.githubusercontent.com/89126969/173224039-657a4560-6c51-4c76-b2ff-f9215028be59.png" width="800">
+
+
 
  
 **Q2. What city has the highest number of sales?**
  
+ 
+ 
  <img src="https://user-images.githubusercontent.com/89126969/173224046-f8236180-ca17-486a-8897-e7f4b0156368.png" width="800">
 
 
+
+
 **Q3. What time should we display advertisements to maximise likelihood of customer’s buying products?**
+
+
 
  <img src="https://user-images.githubusercontent.com/89126969/173224051-66cc286b-580a-446e-b0ae-d50968e42447.png" width="800">
 
 
 **Q4. What products are most often sold together?**
+
+
 
 <img src="https://user-images.githubusercontent.com/89126969/173224056-de99fd85-4113-4f1c-9b5d-04730c31e066.png" width="800">
  
@@ -74,10 +99,17 @@ Columns added during analysis:
 
 **Q5. What product sold the most? Why do you think it sold the most?**
 
+
+
 <img src="https://user-images.githubusercontent.com/89126969/173224067-47d44a45-b00c-4ffa-9b4d-7d46a5eb61a4.png" width="800">
 
 
+
+
 ## Conclusion
+
+
+
 
 Following points are the conclusions or the insights from our EDA of the superstore sale data.
 
