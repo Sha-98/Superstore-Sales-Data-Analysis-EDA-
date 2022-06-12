@@ -49,33 +49,32 @@ Columns added during analysis:
 
 ## Business Questions Answered and Visualizations
 
-Q1. What was the best month for sales? How much was earned that month?
+**Q1. What was the best month for sales? How much was earned that month?**
 
-![image](https://user-images.githubusercontent.com/89126969/173224039-657a4560-6c51-4c76-b2ff-f9215028be59.png)
+<img src="https://user-images.githubusercontent.com/89126969/173224039-657a4560-6c51-4c76-b2ff-f9215028be59.png" width="800">
 
  
-
-Q2. What city has the highest number of sales?
-
- ![image](https://user-images.githubusercontent.com/89126969/173224046-f8236180-ca17-486a-8897-e7f4b0156368.png)
-
-
-Q3. What time should we display advertisements to maximise likelihood of customer’s buying products?
-
- ![image](https://user-images.githubusercontent.com/89126969/173224051-66cc286b-580a-446e-b0ae-d50968e42447.png)
+**Q2. What city has the highest number of sales?**
+ 
+ <img src="https://user-images.githubusercontent.com/89126969/173224046-f8236180-ca17-486a-8897-e7f4b0156368.png" width="800">
 
 
-Q4. What products are most often sold together?
+**Q3. What time should we display advertisements to maximise likelihood of customer’s buying products?**
 
-![image](https://user-images.githubusercontent.com/89126969/173224056-de99fd85-4113-4f1c-9b5d-04730c31e066.png)
+ <img src="https://user-images.githubusercontent.com/89126969/173224051-66cc286b-580a-446e-b0ae-d50968e42447.png" width="800">
+
+
+**Q4. What products are most often sold together?**
+
+<img src="https://user-images.githubusercontent.com/89126969/173224056-de99fd85-4113-4f1c-9b5d-04730c31e066.png" width="800">
+ 
+ 
+<img src="https://user-images.githubusercontent.com/89126969/173224063-cca3d5e0-295e-4af0-9c3a-82f0e1280c98.png" width="800">
  
 
-![image](https://user-images.githubusercontent.com/89126969/173224063-cca3d5e0-295e-4af0-9c3a-82f0e1280c98.png)
- 
+**Q5. What product sold the most? Why do you think it sold the most?**
 
-Q5. What product sold the most? Why do you think it sold the most? 
-
-![image](https://user-images.githubusercontent.com/89126969/173224067-47d44a45-b00c-4ffa-9b4d-7d46a5eb61a4.png)
+<img src="https://user-images.githubusercontent.com/89126969/173224067-47d44a45-b00c-4ffa-9b4d-7d46a5eb61a4.png" width="800">
 
 
 ## Conclusion
