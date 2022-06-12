@@ -91,7 +91,7 @@ Columns added during analysis:
 
 
 
-<img src="https://user-images.githubusercontent.com/89126969/173224056-de99fd85-4113-4f1c-9b5d-04730c31e066.png" width="800">
+<img src="https://user-images.githubusercontent.com/89126969/173224056-de99fd85-4113-4f1c-9b5d-04730c31e066.png" width="500">
  
  
 <img src="https://user-images.githubusercontent.com/89126969/173224063-cca3d5e0-295e-4af0-9c3a-82f0e1280c98.png" width="800">
