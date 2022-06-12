@@ -1,4 +1,4 @@
-# Superstore-Sales-Data-Analysis-EDA-
+# Superstore-Sales-Data-Analysis (EDA)
 
 
 ## Context
