@@ -62,7 +62,7 @@ Columns added during analysis:
 
 
 
-**Q1. What was the best month for sales? How much was earned that month?**
+### **Q1. What was the best month for sales? How much was earned that month?**
 
 
 
@@ -71,7 +71,7 @@ Columns added during analysis:
 
 
  
-**Q2. What city has the highest number of sales?**
+### **Q2. What city has the highest number of sales?**
  
  
  
@@ -80,14 +80,14 @@ Columns added during analysis:
 
 
 
-**Q3. What time should we display advertisements to maximise likelihood of customer’s buying products?**
+### **Q3. What time should we display advertisements to maximise likelihood of customer’s buying products?**
 
 
 
  <img src="https://user-images.githubusercontent.com/89126969/173224051-66cc286b-580a-446e-b0ae-d50968e42447.png" width="800">
 
 
-**Q4. What products are most often sold together?**
+### **Q4. What products are most often sold together?**
 
 
 
@@ -97,7 +97,7 @@ Columns added during analysis:
 <img src="https://user-images.githubusercontent.com/89126969/173224063-cca3d5e0-295e-4af0-9c3a-82f0e1280c98.png" width="800">
  
 
-**Q5. What product sold the most? Why do you think it sold the most?**
+### **Q5. What product sold the most? Why do you think it sold the most?**
 
 
 
