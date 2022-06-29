@@ -1,5 +1,7 @@
 # Superstore-Sales-Data-Analysis (EDA)
 
+<img src="https://user-images.githubusercontent.com/89126969/176469853-9e7882cb-3fdc-47e6-bf7b-4ce13515b672.png" width="800">
+
 
 ## Context
 
